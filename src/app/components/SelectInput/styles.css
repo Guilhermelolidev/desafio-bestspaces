@@ -1,0 +1,15 @@
+select {
+  padding: 10px;
+  outline: none;
+  border: 1px solid #c8d1df;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+select:hover {
+  border: 1px solid rgb(0, 84, 255);
+}
+
+select:focus {
+  border: 1px solid rgb(0, 84, 255);
+}
